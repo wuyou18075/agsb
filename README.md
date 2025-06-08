@@ -448,12 +448,18 @@ echo "nameserver 1.1.1.1" > /etc/resolv.conf
 echo "nameserver 8.8.8.8" >> /etc/resolv.conf
 ```
 
+### 脚本upload-agsb-v2-cj.py启动的,可选择配置参数
+USER_NAME=
+UUID=
+TOKEN=
+DOMAIN=
+启动可添加上边的变量值
+
 ## 作者信息
 
-- 作者: 康康
-- GitHub: https://github.com/zhumengkang/
-- YouTube: https://www.youtube.com/@康康的V2Ray与Clash
-- Telegram: https://t.me/+WibQp7Mww1k5MmZl
+- 作者: 杰哥
+- GitHub: 
+- Telegram: 
 
 ## 许可证
 
