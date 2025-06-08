@@ -440,6 +440,7 @@ exit
 ./root.sh
 ```
 
+
 ### 如果在proot环境中无法访问网络
 
 请检查DNS配置是否正确，可以尝试以下命令：
@@ -448,12 +449,19 @@ echo "nameserver 1.1.1.1" > /etc/resolv.conf
 echo "nameserver 8.8.8.8" >> /etc/resolv.conf
 ```
 
+### 启动upload-agsb-v2-cj.py配置文件,可选择配置变量
+USER_NAME=
+UUID=
+TOKEN=
+DOMAIN=
+启动可添加上边的变量值
+
 ## 作者信息
 
-- 作者: 康康
-- GitHub: https://github.com/zhumengkang/
-- YouTube: https://www.youtube.com/@康康的V2Ray与Clash
-- Telegram: https://t.me/+WibQp7Mww1k5MmZl
+- 作者: wuyou
+- GitHub: 
+- YouTube: 
+- Telegram: 
 
 ## 许可证
 
